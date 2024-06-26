@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_item1.jpg.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/item1.jpg"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_home.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_more.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/more.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/xml_backup_rules.xml.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_login.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_box.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/box.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_profilepicture1.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/profilepicture1.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_profile.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_viewmore.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/viewmore.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_plus.png.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.project_akhir_si.app-debug-65:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.project_akhir_si.app-main-67:/xml/data_extraction_rules.xml"
+    }
+]

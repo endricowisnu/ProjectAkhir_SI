@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Project_Akhir_SI</string>
+    <string name="gcm_defaultSenderId" translatable="false">630183921055</string>
+    <string name="google_api_key" translatable="false">AIzaSyCeUjRCVQc6TbMmlCnvsdsbV4EiMCtJZ4M</string>
+    <string name="google_app_id" translatable="false">1:630183921055:android:3ee08705f3bad6647129aa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCeUjRCVQc6TbMmlCnvsdsbV4EiMCtJZ4M</string>
+    <string name="google_storage_bucket" translatable="false">login-and-register-f6563.appspot.com</string>
+    <string name="project_id" translatable="false">login-and-register-f6563</string>
+    <style name="Theme.Project_Akhir_SI" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>

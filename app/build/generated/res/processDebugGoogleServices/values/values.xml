@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">630183921055</string>
+    <string name="google_api_key" translatable="false">AIzaSyCeUjRCVQc6TbMmlCnvsdsbV4EiMCtJZ4M</string>
+    <string name="google_app_id" translatable="false">1:630183921055:android:3ee08705f3bad6647129aa</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCeUjRCVQc6TbMmlCnvsdsbV4EiMCtJZ4M</string>
+    <string name="google_storage_bucket" translatable="false">login-and-register-f6563.appspot.com</string>
+    <string name="project_id" translatable="false">login-and-register-f6563</string>
+</resources>
