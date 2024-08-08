@@ -65,12 +65,18 @@ dependencies {
     implementation("androidx.compose.ui:ui-graphics:1.6.8")
     implementation("androidx.compose.ui:ui-tooling-preview:1.6.8")
     implementation("androidx.compose.material3:material3:1.2.1")
+    //implementation("androidx.compose.material:material-icons-extended:1.6.8")
+
 
     implementation("androidx.navigation:navigation-compose:2.7.7")
     implementation("com.google.firebase:firebase-firestore-ktx:25.0.0")
     implementation("com.google.firebase:firebase-auth-ktx:23.0.0")
+    implementation ("com.google.firebase:firebase-appcheck-playintegrity:18.0.0")
+    implementation ("com.google.firebase:firebase-appcheck:18.0.0")
     implementation("androidx.wear.compose:compose-material:1.3.1")
     implementation("com.google.android.datatransport:transport-runtime:3.3.0")
+    implementation("androidx.constraintlayout:constraintlayout-compose:1.0.1")
+    implementation("com.google.firebase:firebase-storage-ktx:21.0.0")
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
@@ -81,6 +87,7 @@ dependencies {
 
     implementation("io.coil-kt:coil-compose:2.1.0")
     implementation ("org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.7.3")
+    implementation ("com.google.android.gms:play-services-recaptcha:17.1.0")
     //implementation("com.google.dagger:hilt-android:2.44")
     //kapt("com.google.dagger:hilt-compiler:2.44")
 

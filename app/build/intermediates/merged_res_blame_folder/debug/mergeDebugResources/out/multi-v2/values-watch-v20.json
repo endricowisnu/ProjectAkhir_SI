@@ -4,7 +4,7 @@
             "outputFile": "com.example.project_akhir_si.app-mergeDebugResources-63:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-4\\36677c676d4581580a6de6e1d4b466fd\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
+                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-4\\370788a48316f4ba6b62fde93d101e4e\\transformed\\play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",

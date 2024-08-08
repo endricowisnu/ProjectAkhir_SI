@@ -4,7 +4,7 @@
             "outputFile": "com.example.project_akhir_si.app-mergeDebugResources-63:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-4\\8a47b82ee96b857a2b114a91086ba614\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-4\\91d36528e910e8a0c87db50cc7321e2c\\transformed\\core-1.13.1\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-4\\fef6e4831ee95fa256df5cfa2cc681fb\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
+                    "source": "C:\\Users\\LENOVO\\.gradle\\caches\\transforms-4\\f0a5c563d75676692f97c1614c736eea\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

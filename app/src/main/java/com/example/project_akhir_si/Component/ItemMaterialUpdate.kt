@@ -93,16 +93,34 @@ fun ItemMaterialUpdate(product: Product, db: FirebaseFirestore) {
                     ),
                     onClick = {
                         if (amountOut.isNotBlank()) {
-                            val newAmount = product.amountOfProduct - amountOut.toInt()
-                            if (newAmount >= 0) {
-                                updateProductAmount(product.id, newAmount, db, snackbarHostState, coroutineScope)
+                            val amountOutInt = amountOut.toIntOrNull() // Safely parse the input to an Int
+                            if (amountOutInt != null) {
+                                val newAmount = product.amountOfProduct - amountOutInt
+                                if (newAmount > 0) {
+                                    if (amountOutInt > product.amountOfProduct) {
+                                        updateProductAmount(product.id, newAmount, db, snackbarHostState, coroutineScope)
+                                    } else {
+                                        coroutineScope.launch {
+                                            snackbarHostState.showSnackbar("Jumlah produk tidak boleh kurang dari 0!")
+                                        }
+                                    }
+                                } else {
+                                    coroutineScope.launch {
+                                        snackbarHostState.showSnackbar("Jumlah produk tidak boleh lebih dari jumlah produk tersedia!")
+                                    }
+                                }
                             } else {
                                 coroutineScope.launch {
-                                    snackbarHostState.showSnackbar("Jumlah produk tidak boleh kurang dari 0!")
+                                    snackbarHostState.showSnackbar("Input tidak valid!")
                                 }
+                            }
+                        } else {
+                            coroutineScope.launch {
+                                snackbarHostState.showSnackbar("Input tidak boleh kosong!")
                             }
                         }
                     }
+
                 ) {
                     Text("Kurang")
                 }

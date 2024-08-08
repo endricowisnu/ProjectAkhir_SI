@@ -1,7 +1,5 @@
 package com.example.project_akhir_si.Component
 
-
-
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*

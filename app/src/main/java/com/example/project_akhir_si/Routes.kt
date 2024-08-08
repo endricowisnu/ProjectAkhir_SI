@@ -13,4 +13,5 @@ object Routes {
     var manageproduct = "ManageProduct"
     var detailscreenproductin = "DetailScreenProductIn"
     var detailscreenproductout = "DetailScreenProductOut"
+    var productdetailscreen = "ProductDetailScreen"
 }
